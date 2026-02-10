@@ -1,1 +1,1 @@
-# pop-up form that only closes after filling and submit
+Cookie consent form. Fill in full name and email address to see content.
